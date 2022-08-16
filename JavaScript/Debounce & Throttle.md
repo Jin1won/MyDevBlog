@@ -17,14 +17,14 @@
 ## 3. 스크롤링 이벤트를 통한 예시
 
 - 스크롤 이벤트가 발생할 때 마다 count를 올리고 로그를 찍는 상황에서 화면은 다음과 같이 출력된다.
-  ![image](https://user-images.githubusercontent.com/76507701/184937050-e794a823-769a-426e-87be-7bb528a63507.png)
+  ![image](https://blog.kakaocdn.net/dn/kDNTJ/btq6DRvBwph/3k2oX7mlFcAukK21dBgtk1/img.gif)
 
 - Debounce를 적용한다면 다음과 같이 화면이 출력된다.
-  ![image](https://user-images.githubusercontent.com/76507701/184937190-712a0ad1-e3ff-4e75-a600-27584bdae989.png)
+  ![image](https://blog.kakaocdn.net/dn/8bbG6/btq6DDjSpjY/CrB42nQ09EVeMfDUNZiOi1/img.gif)
 - 마지막으로 발생한 이벤트에 대해서만 이벤트 콜백 함수가 호출된다.
 
 - Throttle를 적용한다면 다음과 같이 화면이 출력된다.
-  ![image](https://user-images.githubusercontent.com/76507701/184937420-c3eee95c-8b46-418d-b5bd-028a5343f2d6.png)
+  ![image](https://blog.kakaocdn.net/dn/swG1i/btq6zzX0KdQ/SKg5N7hqR6KMTSOGRVgRek/img.gif)
 - Throttler가 이벤트를 조이고 있는 경우 즉, 설정한 시간 동안 발생한 이벤트는 최대 1번만 발생한다.
 
 ## 참고 사이트

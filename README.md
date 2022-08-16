@@ -6,3 +6,8 @@
 ## ⚙ Table
 
 Frontend | JavaScript | React | Network | CSS
+
+- Frontend
+
+- JavaScript
+  [Debounce & Throttle](https://github.com/Jin1won/MyDevBlog/blob/main/JavaScript/Debounce%20%26%20Throttle.md)
