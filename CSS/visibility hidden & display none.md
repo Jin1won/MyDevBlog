@@ -1,6 +1,6 @@
 # visibility hidden & display none
 
-2022/08/16
+2022/08/21
 
 ## 1.CSS로 특정 영역을 숨기는 방법?
 
